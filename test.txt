@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 SELECT * FROM test WHERE id = 1 and test = 'done' and test2 = 'fix'
+=======
+SELECT * FROM test WHERE id = 1
+nice
+>>>>>>> nice_feature
